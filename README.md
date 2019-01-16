@@ -36,7 +36,7 @@ We will use **Landoop fast-data-dev** image which contains entire Kafka distribu
 ## Get Docker Kafka image and run it
 If you have installed Docker, then just type : ```docker run --rm --net=host landoop/fast-data-dev```
 
-After you have get Docker image and run it, to open GUI and go into fast-data-dev environment visit : ```  http://localhost:3030```
+After you have get Docker image and run it, to open GUI and go into fast-data-dev environment visit : [http://localhost:3030](http://localhost:3030)
 
 ## Kafka CLI hands-on
 
